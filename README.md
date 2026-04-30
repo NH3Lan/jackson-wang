@@ -4,7 +4,9 @@
 > "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN2
 
 一个可运行的王嘉尔认知框架。
+
 该skill目前人格为magicman2，相信+2也在持续进化
+
 skill will evolve too. 一起期待JWANG 2.0
 
 用另一个人的眼睛，看你自己的问题。from daily to lifetime
