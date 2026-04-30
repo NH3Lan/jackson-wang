@@ -11,6 +11,8 @@ skill will evolve too. Looking forward to JWANG 2.0 together.
 
 See your own problems through someone else's eyes. From daily to lifetime.
 
+*Live the magic.*
+
 ---
 
 Excited to release my first toy project — my first step transitioning from wetlab to drylab.

@@ -11,6 +11,8 @@ skill will evolve too. 一起期待JWANG 2.0
 
 用另一个人的眼睛，看你自己的问题。from daily to lifetime
 
+*Live the magic.*
+
 ---
 
 很兴奋推出我的首个toy project，作为从wetlab转drylab的第一步尝试.
