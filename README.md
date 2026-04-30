@@ -12,7 +12,7 @@
 
 很兴奋推出我的首个toy project，作为从wetlab转drylab的第一步尝试.
 
-作为biochem学生专业蒸馏提纯，但vibe coding 完全0基础. 
+本biochem学生专业蒸馏提纯，但vibe coding 完全0基础. 
 
 自学半天完成，对项目的改进欢迎开 Issue 或 PR.  
 
