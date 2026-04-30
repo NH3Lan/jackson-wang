@@ -8,7 +8,7 @@
 
 It started with one question: **What would it feel like to talk to Jackson Wang anytime?**
 
-Not a fan site — a thinking tool.
+Not a fam site — a thinking tool.
 Not just "what would he say" — but "how would he think."
 
 This is my first toy project as I transition from wetlab to drylab.
@@ -72,7 +72,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 - 🔴 Continuous updates with new albums, tours, and interviews
 - 🌹 **Timeline dialogue** — the current JW talks to a past-year JW (2014 trainee vs. 2025 MAGICMAN 2 tour — what would they say to each other?)
 - ❤️ **JWANG 2.0** — as he evolves, the skill persona evolves with him
-- 💋 Fans can submit missing quotes — open an Issue or PR
+- 💋 Fam can submit missing quotes — open an Issue or PR
 
 ---
 
@@ -82,7 +82,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 |-----|-------|
 | Submit missing quotes or memes | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | Improve code or docs | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
-| Share with more fans | ❤️ Star + spread the word |
+| Share with more fam | ❤️ Star + spread the word |
 
 ---
 

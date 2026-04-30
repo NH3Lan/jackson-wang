@@ -8,7 +8,7 @@
 
 从一个想法开始：**如果能随时和王嘉尔对话，会是什么感觉？**
 
-不是粉丝站，是思维工具。
+不是 fam 站，是思维工具。
 不只是「他会怎么说」，而是「他会怎么想」。
 
 这是我从 wetlab 转 drylab 的第一个 toy project，
@@ -72,7 +72,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 - 🔴 随新专辑 · 新巡演 · 新采访持续更新语料库
 - 🌹 **时间线对话** — 让现在的 JW 和某一年的 JW 直接对话（2014年练习生 vs 2025年 MAGICMAN 2 巡演中的他，会说什么？）
 - ❤️ **JWANG 2.0** — 随他本人进化，skill 人格同步迭代
-- 💋 欢迎粉丝提交遗漏语录，开 Issue 或 PR
+- 💋 欢迎fam提交遗漏语录，开 Issue 或 PR
 
 ---
 
@@ -82,7 +82,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 |------|------|
 | 提交遗漏语录或梗 | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | 改进代码或文档 | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
-| 分享给更多粉丝 | ❤️ Star + 转发 |
+| 分享给更多fam | ❤️ Star + 转发 |
 
 ---
 
