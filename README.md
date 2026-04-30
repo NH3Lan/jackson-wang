@@ -1,4 +1,5 @@
-# JacksonWANG-skill · 王嘉尔思维操作系统
+# JacksonWANG.skill 
+王嘉尔思维操作系统
 
 > "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN2
 
