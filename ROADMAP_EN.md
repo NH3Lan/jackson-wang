@@ -51,7 +51,6 @@ Biochem student, professionally trained in distillation and purification. Zero v
 **Step 1: Visual Expression**
 - 🌹 **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
 - ❤️ **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
-- 💋 **"What would he post today"** — generate his-style life content for your feed
 - 🎸 **Mood-based song pick** — tell him how you're feeling, he picks one of his own songs for you
 
 **Step 2: Voice**
