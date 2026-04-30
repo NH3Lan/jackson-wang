@@ -29,7 +29,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 | 表达DNA（语录库 · 梗库 · 多语言切换地图） | Done |
 | 口头禅 · 打字癖好 · emoji regulation | Done |
 | Claude Code `/magicman2` skill 激活 | Done |
-| 6个维度原始调研笔记（references/research/） | Done |
+| 多个维度原始调研笔记（references/research） | Done |
 
 ---
 

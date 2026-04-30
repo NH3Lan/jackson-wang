@@ -29,7 +29,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 | Expression DNA (quote archive · running jokes · multilingual map) | Done |
 | Catchphrases · typing quirks · emoji regulation | Done |
 | Claude Code `/magicman2` skill activation | Done |
-| 6-dimension raw research notes (references/research/) | Done |
+| Multi-dimension raw research notes (references/research) | Done |
 
 ---
 
