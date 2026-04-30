@@ -69,7 +69,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 > He keeps evolving. The skill has to keep up.
 
 - 🔥 Continuous updates with new albums, tours, and interviews
-- 🌹 **Timeline dialogue** — the current JW talks to a past-year JW (2014 trainee vs. 2025 MAGICMAN 2 tour — what would they say to each other?)
+
 - 🚨 **JWANG 2.0** — as he evolves, the skill persona evolves with him
 - 💋 Fam can submit missing quotes — open an Issue or PR
 
