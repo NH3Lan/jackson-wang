@@ -13,7 +13,7 @@ See your own problems through someone else's eyes. From daily to lifetime.
 
 <div align="center">
 
-*Live the magic.*
+<img src="assets/live-the-magic.svg" alt="Live the magic." width="600"/>
 
 </div>
 

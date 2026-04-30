@@ -13,7 +13,7 @@ skill will evolve too. 一起期待JWANG 2.0
 
 <div align="center">
 
-*Live the magic.*
+<img src="assets/live-the-magic.svg" alt="Live the magic." width="600"/>
 
 </div>
 
