@@ -8,12 +8,23 @@
 
 用另一个人的眼睛，看你自己的问题。from daily to lifetime
 
+---
+
 很兴奋推出我的首个toy project，作为从wetlab转drylab的第一步尝试.
 
-作为chem学生专业蒸馏，但vibe coding 完全0基础. 自学半天完成，对项目的改进欢迎开 Issue 或 PR.
+作为biochem学生专业蒸馏提纯，但vibe coding 完全0基础. 
 
-NOW: open to collaboration🚨
-seeking for mentor and intern #ai4s
+自学半天完成，对项目的改进欢迎开 Issue 或 PR.  
+
+请share并star这个项目给我更多动力吧❤️致力于把脑中大量其余idea转化落地
+
+---
+
+<321看这边👆
+
+Now: open to collaboration🚨 
+
+seeking for lab or intern #aidd #synbio 🙏
 
 ---
 
