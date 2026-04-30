@@ -22,7 +22,7 @@ seeking for mentor and intern #ai4s
 基于王嘉尔（Jackson Wang）公开一手资料的深度蒸馏
 提炼为：5个核心心智模型 · 8条决策启发式 · 完整表达DNA（含真实语录库 + 梗库 + 多语言切换地图）
 
-credit to Jackson Wang, TEAM WANG, TEAM WANG records, TEAM WANG design 
+credit to Jackson Wang, TEAM WANG records, TEAM WANG design 
 
 ---
 
