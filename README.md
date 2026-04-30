@@ -4,35 +4,31 @@
 > "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN2
 
 一个可运行的王嘉尔认知框架。
-目前人格为magicman2，而嘉尔也在持续进化，skill will evolve too.
+目前人格为magicman2，而嘉尔也在持续进化，skill will evolve too. 一起期待JWANG 2.0
 
 用另一个人的眼睛，看你自己的问题。daily to lifetime
 
+很兴奋推出我的首个vibe coding toy project，作为从wetlab转drylab的第一步.
+对项目的改进欢迎开 Issue 或 PR。
+open to collaboration
 ---
 
 ## 这是什么
 
-基于王嘉尔（Jackson Wang）公开一手资料的深度蒸馏：
-
-- **Grammy、Billboard、NME、Tribune** 深度专访
-- **X（@JacksonWang852）** 原推文
-- **MAGICMAN 2 世界巡演** 台词实录（马尼拉、墨西哥城等）
-- **TVB《芷珊再约王嘉尔》** 等香港媒体采访
-- **伦敦演唱会** 现场台词（2023）
-
+基于王嘉尔（Jackson Wang）公开一手资料的深度蒸馏
 提炼为：5个核心心智模型 · 8条决策启发式 · 完整表达DNA（含真实语录库 + 梗库 + 多语言切换地图）
-
+credit to Jackson Wang, TEAM WANG, TEAM WANG records, TEAM WANG design, 88rising 
 ---
 
 ## 5个核心心智模型
 
 | 模型 | 一句话 |
 |------|--------|
-| **魔法人对话** | 你一直在逃避的内在自我，才是你真正的力量源头 |
+| **魔法佬对话** | 你一直在逃避的内在自我，才是你真正的力量源头 |
 | **全力即标准** | 不是"我要努力"，而是"不死就继续"——这是他对放弃阈值的真实设定 |
 | **二元张力即养料** | 没有坏，何来好。别急着逃离低谷，它在喂养你 |
 | **身份是护城河** | 你是谁，比你做什么更重要。稀缺性来自不可复制的身份 |
-| **父亲镜片** | 如果输了是我的错，如果赢了是你的荣耀——领导力的底层程序 |
+| **家人镜片** | 如果输了是我的错，如果赢了是你的荣耀——领导力的底层程序 |
 
 ---
 
@@ -58,7 +54,7 @@ git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 /magicman2
 ```
 
-或者直接说：「用王嘉尔的视角」「Jackson会怎么看」「魔法人视角」
+或者直接说：「用王嘉尔的视角」「Jackson会怎么看」「magicman视角」
 
 ---
 
@@ -66,7 +62,7 @@ git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 
 - **思维顾问模式**：用王嘉尔的心智模型分析你的问题——创业决策、职业选择、自我认同
 - **角色扮演模式**：他会直接以第一人称回应，语气、节奏、词汇都来自真实语料
-- **多语言切换**：粤语母语 · 英文 · 普通话 · 韩语，跟着对话语境自然切换
+- **多语言切换**：粤语 · 英文 · 普通话 · 韩语，跟着对话语境自然切换
 - **梗识别**：懂他的人会认出那些自cue的名场面；不懂的也不会觉得突兀
 
 ---
@@ -76,7 +72,7 @@ git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 详见 `references/research/` 目录，包含6个维度的原始调研笔记。
 
 ### 一手来源（此人直接产出）
-- X（推特）@JacksonWang852 原推文（2022–2025）
+- X @JacksonWang852 原推文（2022–2025）
 - Instagram @jacksonwang852g7 演出记录
 - MAGICMAN 2 世界巡演现场台词实录（allkpop，2025）
 - Tribune Philippines 深度专访（2025年10月）
@@ -95,14 +91,6 @@ git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 - 调研截止：2026年4月
 - 家人话题、私下想法等外人无从了解的部分不在此Skill范围内
 - 面对他从未公开讨论的议题，Skill会基于框架推断，推断≠真实判断
-
----
-
-## 关于 Version 1
-
-这是 v1。语料库将随王嘉尔的新采访、新专辑、新巡演持续更新。
-
-如果你知道某个他说过的话没有收录，欢迎开 Issue 或 PR。
 
 ---
 
