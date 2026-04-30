@@ -110,6 +110,8 @@ https://github.com/NH3lan/jackson-wang
 
 Send a message to the QClaw bot in WeChat, type `/magicman2` to activate — then just talk to him right there in WeChat.
 
+> **💡 Tip**: For a more natural WeChat texting feel, just tell him: "Reply to me in separate messages, one thought at a time — don't send it all as one block."
+
 ---
 
 ## What This Skill Does

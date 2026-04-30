@@ -110,6 +110,8 @@ https://github.com/NH3lan/jackson-wang
 
 在微信中直接发消息给 QClaw bot，输入 `/magicman2` 激活，之后就能和他在微信里聊了。
 
+> **💡 Tip**：想让回复更像真实微信聊天节奏，可以直接告诉他：「回复我的时候把每句话分开发，不要一大段」。
+
 ---
 
 ## Skill 能做什么
