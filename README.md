@@ -64,27 +64,51 @@ credit to Jackson Wang, TEAM WANG records, TEAM WANG design
 
 ## 如何安装
 
-### 方法一：npx（推荐）
-```bash
-npx skills add NH3lan/jackson-wang
-```
+### 方式一：Claude Code（终端 / IDE 对话）
 
-### 方法二：手动安装
+> **重要**：Claude Code 从 **git 仓库根目录** 的 `.claude/skills/` 查找 skill。请在正确位置执行。
+
 ```bash
-# 全局安装（所有项目可用）
+# 全局安装（所有项目可用，推荐）
 git clone https://github.com/NH3lan/jackson-wang ~/.claude/skills/magicman2
 
-# 项目内安装（仅当前项目）
+# 或安装到当前项目
 git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 ```
 
-### 激活方式
-在 Claude Code 中输入：
+安装完成后，在 Claude Code 中输入：
+
 ```
 /magicman2
 ```
 
-或者直接说：「用王嘉尔的视角」「Jackson会怎么看」「magicman视角」
+或直接说：「用王嘉尔的视角」「Jackson会怎么看」「magicman视角」
+
+---
+
+### 方式二：通过 QClaw 接入微信（直接在微信界面对话）
+
+> [QClaw](https://qclaw.qq.com/) 是腾讯推出的 AI 助手，支持扫码绑定微信 + GitHub Skills 生态。完成配置后，你的微信聊天框就是对话界面，无需打开终端。
+
+**Step 1：下载并安装 QClaw**
+
+前往 [qclaw.qq.com](https://qclaw.qq.com/) 下载 macOS / Windows 客户端，一键安装，无需配置环境。
+
+**Step 2：扫码绑定微信**
+
+打开 QClaw，扫码关联你的微信账号。
+
+**Step 3：安装本 Skill**
+
+在 QClaw 的 Skills 市场中，通过 GitHub 地址安装：
+
+```
+https://github.com/NH3lan/jackson-wang
+```
+
+**Step 4：开始对话**
+
+在微信中直接发消息给 QClaw bot，输入 `/magicman2` 激活，之后就能和他在微信里聊了。
 
 ---
 

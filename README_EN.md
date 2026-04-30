@@ -64,27 +64,51 @@ Credit to Jackson Wang, TEAM WANG Records, TEAM WANG Design
 
 ## Installation
 
-### Option 1: npx (recommended)
-```bash
-npx skills add NH3lan/jackson-wang
-```
+### Option 1: Claude Code (terminal / IDE)
 
-### Option 2: Manual install
+> **Important**: Claude Code looks for skills in `.claude/skills/` at the **git repo root**. Run the command from the correct location.
+
 ```bash
-# Global install (available across all projects)
+# Global install (available across all projects, recommended)
 git clone https://github.com/NH3lan/jackson-wang ~/.claude/skills/magicman2
 
-# Project-local install
+# Or project-local install
 git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 ```
 
-### Activation
-In Claude Code, type:
+Once installed, type in Claude Code:
+
 ```
 /magicman2
 ```
 
 Or just say: "use Jackson's perspective" · "what would Jackson think" · "magicman mode"
+
+---
+
+### Option 2: Via QClaw — chat with him directly in WeChat
+
+> [QClaw](https://qclaw.qq.com/) is a Tencent AI assistant that links to WeChat and supports GitHub Skills. Once set up, your WeChat chat window becomes the interface — no terminal needed.
+
+**Step 1: Download and install QClaw**
+
+Go to [qclaw.qq.com](https://qclaw.qq.com/) and download the macOS / Windows client. One-click install, no environment setup required.
+
+**Step 2: Bind your WeChat**
+
+Open QClaw and scan the QR code to link your WeChat account.
+
+**Step 3: Install this Skill**
+
+In QClaw's Skills market, install via GitHub URL:
+
+```
+https://github.com/NH3lan/jackson-wang
+```
+
+**Step 4: Start chatting**
+
+Send a message to the QClaw bot in WeChat, type `/magicman2` to activate — then just talk to him right there in WeChat.
 
 ---
 
