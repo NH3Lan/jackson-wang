@@ -3,6 +3,8 @@
 
 > "Feeling not okay is okay." —— Jackson Wang，MAGICMAN2
 
+> "The magic man isn't just me. The magic man is you."
+
 一个可运行的王嘉尔认知框架。
 
 该skill目前人格为magicman2，相信+2也在持续进化

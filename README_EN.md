@@ -3,6 +3,8 @@ Jackson Wang Thinking OS
 
 > "Feeling not okay is okay." — Jackson Wang, MAGICMAN2
 
+> "The magic man isn't just me. The magic man is you."
+
 A runnable cognitive framework distilled from Jackson Wang.
 
 The skill's current persona is magicman2 — and just like him, it keeps evolving.
