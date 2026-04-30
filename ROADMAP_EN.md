@@ -82,6 +82,8 @@ Biochem student, professionally trained in distillation and purification. Zero v
 | Submit missing quotes or memes | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | Improve code or docs | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
 | Share with more fam | Star + spread the word |
+| Add to skill community | Welcome to submit this project to the all-human-skills community |
+| Collaborate on v.2 | [Open an Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 
 ---
 

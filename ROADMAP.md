@@ -82,6 +82,8 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 | 提交遗漏语录或梗 | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | 改进代码或文档 | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
 | 分享给更多fam | Star + 转发 |
+| 收录至人类 Skill 社区 | 欢迎将本项目提交至收录所有 Skill 的社区 |
+| 参与 v.2 开发合作 | [开 Issue 联系我](https://github.com/NH3Lan/jackson-wang/issues) |
 
 ---
 
