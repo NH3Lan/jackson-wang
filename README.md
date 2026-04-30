@@ -33,9 +33,9 @@ from daily to lifetime
 
 <321看这边👆
 
-Now: open to collaboration🚨 
+Now: open to collaboration🚨 · [Roadmap →](ROADMAP.md)
 
-seeking for lab or intern #aidd #synbio 🙏
+NEXT: seeking for lab or intern #aidd #synbio 🙏
 
 ---
 

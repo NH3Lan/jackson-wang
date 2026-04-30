@@ -33,9 +33,9 @@ Please share and star this project to give me more motivation ❤️ Committed t
 
 <321 look here 👆
 
-Now: open to collaboration 🚨
+Now: open to collaboration 🚨 · [Roadmap →](ROADMAP_EN.md)
 
-Seeking lab or intern positions #aidd #synbio 🙏
+NEXT: Seeking lab or intern positions #aidd #synbio 🙏
 
 ---
 
