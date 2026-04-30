@@ -1,7 +1,7 @@
 # jackson-wang.skill
 Jackson Wang Thinking OS
 
-> "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" — Jackson Wang, MAGICMAN2
+> "Feeling not okay is okay." — Jackson Wang, MAGICMAN2
 
 A runnable cognitive framework distilled from Jackson Wang.
 
