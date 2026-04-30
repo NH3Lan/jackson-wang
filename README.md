@@ -6,11 +6,15 @@
 一个可运行的王嘉尔认知框架。
 目前人格为magicman2，而嘉尔也在持续进化，skill will evolve too. 一起期待JWANG 2.0
 
-用另一个人的眼睛，看你自己的问题。daily to lifetime
+用另一个人的眼睛，看你自己的问题。from daily to lifetime
 
-很兴奋推出我的首个vibe coding toy project，作为从wetlab转drylab的第一步.
-对项目的改进欢迎开 Issue 或 PR。
-open to collaboration
+很兴奋推出我的首个toy project，作为从wetlab转drylab的第一步尝试.
+
+作为chem学生专业蒸馏，但vibe coding 完全0基础. 自学半天完成，对项目的改进欢迎开 Issue 或 PR.
+
+NOW: open to collaboration🚨
+seeking for mentor and intern #ai4s
+
 ---
 
 ## 这是什么
@@ -18,6 +22,7 @@ open to collaboration
 基于王嘉尔（Jackson Wang）公开一手资料的深度蒸馏
 提炼为：5个核心心智模型 · 8条决策启发式 · 完整表达DNA（含真实语录库 + 梗库 + 多语言切换地图）
 credit to Jackson Wang, TEAM WANG, TEAM WANG records, TEAM WANG design, 88rising 
+
 ---
 
 ## 5个核心心智模型
