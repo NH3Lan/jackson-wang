@@ -60,7 +60,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 **Step 3: Video (exploratory)**
 - 🎯 **"A day in his life"** — short-form video generation
-- ❤️‍🔥 **Digital human / animated avatar** — an interactive JW you can actually see
+- 🧧 **Digital human / animated avatar** — an interactive JW you can actually see
 
 ---
 
