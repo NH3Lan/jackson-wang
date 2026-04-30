@@ -9,11 +9,13 @@ The skill's current persona is magicman2 — and just like him, it keeps evolvin
 
 skill will evolve too. Looking forward to JWANG 2.0 together.
 
-See your own problems through someone else's eyes. From daily to lifetime.
-
 <div align="center">
 
+sharing my eyes with you.
+
 *Live the magic.*
+
+from daily to lifetime
 
 </div>
 

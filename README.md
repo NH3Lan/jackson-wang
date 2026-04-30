@@ -9,11 +9,13 @@
 
 skill will evolve too. 一起期待JWANG 2.0
 
-用另一个人的眼睛，看你自己的问题。from daily to lifetime
-
 <div align="center">
 
+sharing my eyes with you.
+
 *Live the magic.*
+
+from daily to lifetime
 
 </div>
 
