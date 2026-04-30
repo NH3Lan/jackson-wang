@@ -88,10 +88,6 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 
 <div align="center">
 
-**语料库属于所有认识他的人。**
-
-有你知道但没收录的语录？来开个 Issue。
-
 *Live the magic.*
 
 </div>

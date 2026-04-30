@@ -88,10 +88,6 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 <div align="center">
 
-**The corpus belongs to everyone who knows him.**
-
-Know something he said that isn't here? Open an Issue.
-
 *Live the magic.*
 
 </div>
