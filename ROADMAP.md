@@ -45,7 +45,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 
 ---
 
-### Phase 2 — 赛博偶像：让他活起来
+### Phase 2 — Cyber Jackson：让他活起来
 
 > 现在的 skill 只能聊天。下一步让他发图、开口说话，出现在你的屏幕上。
 

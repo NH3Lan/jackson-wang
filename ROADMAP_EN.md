@@ -45,7 +45,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 ---
 
-### Phase 2 — Cyber Idol: Bring Him to Life
+### Phase 2 — Cyber Jackson: Bring Him to Life
 
 > Right now the skill can only chat. Next: he sends photos, speaks in his voice, shows up on your screen.
 
