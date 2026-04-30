@@ -1,11 +1,11 @@
 # JacksonWANG-skill · 王嘉尔思维操作系统
 
-> "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN 2 世界巡演（2025）
+> "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN2
 
 一个可运行的王嘉尔认知框架。
 目前人格为magicman2，而嘉尔也在持续进化，skill will evolve too.
 
-用另一个人的眼睛，看你自己的问题。
+用另一个人的眼睛，看你自己的问题。daily to lifetime
 
 ---
 
