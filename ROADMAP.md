@@ -39,7 +39,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 
 > 不只是 Claude Code。让他出现在你最常用的地方。
 
-- ❤️ **其他 agent 平台适配** — 从 Claude skill 扩展到更多平台，逐步自学开发中
+- 📕 **其他 agent 平台适配** — 从 Claude skill 扩展到更多平台，逐步自学开发中
 - 📍 **README & Roadmap 视觉升级** — 引入 MAGICMAN 系列专属字体与视觉素材，让项目主页本身也有他的质感
 
 ---

@@ -39,7 +39,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 > Beyond Claude Code. Put him where you actually spend time.
 
-- ❤️ **Other agent platforms** — expanding from Claude skill to more platforms, learning as I go
+- 📕 **Other agent platforms** — expanding from Claude skill to more platforms, learning as I go
 - 📍 **README & Roadmap visual upgrade** — MAGICMAN series typography and visuals for the project page itself — first impression matters
 
 ---
