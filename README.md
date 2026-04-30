@@ -38,16 +38,16 @@
 
 ### 方法一：npx（推荐）
 ```bash
-npx skills add NH3lan/magicman2
+npx skills add NH3lan/jackson-wang
 ```
 
 ### 方法二：手动安装
 ```bash
 # 全局安装（所有项目可用）
-git clone https://github.com/NH3lan/magicman2 ~/.claude/skills/magicman2
+git clone https://github.com/NH3lan/jackson-wang ~/.claude/skills/magicman2
 
 # 项目内安装（仅当前项目）
-git clone https://github.com/NH3lan/magicman2 .claude/skills/magicman2
+git clone https://github.com/NH3lan/jackson-wang .claude/skills/magicman2
 ```
 
 ### 激活方式
