@@ -41,7 +41,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 > Beyond Claude Code. Put him where you actually spend time.
 
-- 🤖 **Other agent platforms** — expanding from Claude skill to more platforms, learning as I go
+- ❤️ **Other agent platforms** — expanding from Claude skill to more platforms, learning as I go
 
 ---
 
@@ -50,18 +50,18 @@ Biochem student, professionally trained in distillation and purification. Zero v
 > Right now the skill can only chat. Next: he sends photos, speaks in his voice, shows up on your screen.
 
 **Step 1: Visual Expression**
-- 📱 **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
-- 🖼️ **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
-- 📸 **"What would he post today"** — generate his-style life content for your feed
+- 🌹 **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
+- ❤️ **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
+- 💋 **"What would he post today"** — generate his-style life content for your feed
 
 **Step 2: Voice**
-- 🔊 **Voice cloning** — he replies in his actual voice
-- ⏰ **Daily wake-up alarm** — he wakes you up every morning in his own words
-- 🌅 **Screen wake greeting** — he's there when you open your computer
+- ❤️‍🔥 **Voice cloning** — he replies in his actual voice
+- 🚨 **Daily wake-up alarm** — he wakes you up every morning in his own words
+- 🔴 **Screen wake greeting** — he's there when you open your computer
 
 **Step 3: Video (exploratory)**
-- 🎬 **"A day in his life"** — short-form video generation
-- 🧬 **Digital human / animated avatar** — an interactive JW you can actually see
+- 🎯 **"A day in his life"** — short-form video generation
+- ❤️‍🔥 **Digital human / animated avatar** — an interactive JW you can actually see
 
 ---
 
@@ -69,10 +69,10 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 > He keeps evolving. The skill has to keep up.
 
-- 📰 Continuous updates with new albums, tours, and interviews
-- 💬 **Timeline dialogue** — the current JW talks to a past-year JW (2014 trainee vs. 2025 MAGICMAN 2 tour — what would they say to each other?)
-- 🔮 **JWANG 2.0** — as he evolves, the skill persona evolves with him
-- 🙋 Fans can submit missing quotes — open an Issue or PR
+- 🔴 Continuous updates with new albums, tours, and interviews
+- 🌹 **Timeline dialogue** — the current JW talks to a past-year JW (2014 trainee vs. 2025 MAGICMAN 2 tour — what would they say to each other?)
+- ❤️ **JWANG 2.0** — as he evolves, the skill persona evolves with him
+- 💋 Fans can submit missing quotes — open an Issue or PR
 
 ---
 
@@ -82,7 +82,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 |-----|-------|
 | Submit missing quotes or memes | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | Improve code or docs | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
-| Share with more fans | ⭐ Star + spread the word |
+| Share with more fans | ❤️ Star + spread the word |
 
 ---
 
