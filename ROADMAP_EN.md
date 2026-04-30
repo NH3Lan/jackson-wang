@@ -49,7 +49,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 > Right now the skill can only chat. Next: he sends photos, speaks in his voice, shows up on your screen.
 
 **Step 1: Visual Expression**
-- 🌹 **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
+- ☎️ **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
 - ❤️ **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
 - 🎸 **Mood-based song pick** — tell him how you're feeling, he picks one of his own songs for you
 
@@ -81,7 +81,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 |-----|-------|
 | Submit missing quotes or memes | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | Improve code or docs | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
-| Share with more fam | ❤️ Star + spread the word |
+| Share with more fam | Star + spread the word |
 
 ---
 

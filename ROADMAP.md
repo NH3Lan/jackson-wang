@@ -49,7 +49,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 > 现在的 skill 只能聊天。下一步让他发图、开口说话，出现在你的屏幕上。
 
 **Step 1：视觉表达**
-- 🌹 **iMessage / WeChat / WhatsApp 模拟对话界面** — 感觉像真的在和 Jackson 发消息
+- ☎️ **iMessage / WeChat / WhatsApp 模拟对话界面** — 感觉像真的在和 Jackson 发消息
 - ❤️ **表情包生成** — 他风格的贴纸包，对话时自动发出
 - 🎸 **今日心情歌单** — 告诉他你现在的状态，他给你推一首自己的歌
 
@@ -81,7 +81,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 |------|------|
 | 提交遗漏语录或梗 | [Issue](https://github.com/NH3Lan/jackson-wang/issues) |
 | 改进代码或文档 | [PR](https://github.com/NH3Lan/jackson-wang/pulls) |
-| 分享给更多fam | ❤️ Star + 转发 |
+| 分享给更多fam | Star + 转发 |
 
 ---
 
