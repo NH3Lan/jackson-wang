@@ -105,6 +105,6 @@ git clone https://github.com/NH3lan/magicman2 .claude/skills/magicman2
 ---
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[@zhaoanlan](https://github.com/zhaoanlan)
+> 创建者：[@NH3lan](https://github.com/NH3Lan)
 
 [![Made with 女娲.skill](https://img.shields.io/badge/Made%20with-女娲.skill-ff69b4)](https://github.com/alchaincyf/nuwa-skill)
