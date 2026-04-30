@@ -50,11 +50,11 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 **Step 1: Visual Expression**
 - ☎️ **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
-- ❤️ **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
+- 🧰 **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
 - 🎸 **Mood-based song pick** — tell him how you're feeling, he picks one of his own songs for you
 
 **Step 2: Voice**
-- ❤️‍🔥 **Voice cloning** — he replies in his actual voice
+- 🫦 **Voice cloning** — he replies in his actual voice
 - ⏰ **Daily wake-up alarm** — he wakes you up every morning in his own words
 - 🔴 **Screen wake greeting** — he's there when you open your computer
 
