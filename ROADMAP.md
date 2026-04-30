@@ -30,6 +30,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 | 口头禅 · 打字癖好 · emoji regulation | Done |
 | Claude Code `/magicman2` skill 激活 | Done |
 | 多个维度原始调研笔记（references/research） | Done |
+| WeChat 接入（via QClaw） | Done |
 
 ---
 
@@ -49,7 +50,7 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 > 现在的 skill 只能聊天。下一步让他发图、开口说话，出现在你的屏幕上。
 
 **Step 1：视觉表达**
-- ☎️ **iMessage / WeChat / WhatsApp 模拟对话界面** — 感觉像真的在和 Jackson 发消息
+- ☎️ **iMessage / WhatsApp 模拟对话界面** — 感觉像真的在和 Jackson 发消息
 - 🧰 **表情包生成** — 他风格的贴纸包，对话时自动发出
 - 🎸 **今日心情歌单** — 告诉他你现在的状态，他给你推一首自己的歌
 

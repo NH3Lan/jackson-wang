@@ -30,6 +30,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 | Catchphrases · typing quirks · emoji regulation | Done |
 | Claude Code `/magicman2` skill activation | Done |
 | Multi-dimension raw research notes (references/research) | Done |
+| WeChat integration (via QClaw) | Done |
 
 ---
 
@@ -49,7 +50,7 @@ Biochem student, professionally trained in distillation and purification. Zero v
 > Right now the skill can only chat. Next: he sends photos, speaks in his voice, shows up on your screen.
 
 **Step 1: Visual Expression**
-- ☎️ **iMessage / WeChat / WhatsApp simulated chat UI** — feels like actually texting Jackson
+- ☎️ **iMessage / WhatsApp simulated chat UI** — feels like actually texting Jackson
 - 🧰 **Meme & sticker generation** — his-style sticker pack, auto-sent in conversation
 - 🎸 **Mood-based song pick** — tell him how you're feeling, he picks one of his own songs for you
 
