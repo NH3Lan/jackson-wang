@@ -24,12 +24,12 @@ Biochem student, professionally trained in distillation and purification. Zero v
 
 | Capability | Status |
 |------------|:------:|
-| magicman2 complete persona framework | ✅ |
-| 5 core mental models · 8 decision heuristics | ✅ |
-| Expression DNA (quote archive · running jokes · multilingual map) | ✅ |
-| Catchphrases · typing quirks · emoji regulation | ✅ |
-| Claude Code `/magicman2` skill activation | ✅ |
-| 6-dimension raw research notes (references/research/) | ✅ |
+| magicman2 complete persona framework | Done |
+| 5 core mental models · 8 decision heuristics | Done |
+| Expression DNA (quote archive · running jokes · multilingual map) | Done |
+| Catchphrases · typing quirks · emoji regulation | Done |
+| Claude Code `/magicman2` skill activation | Done |
+| 6-dimension raw research notes (references/research/) | Done |
 
 ---
 

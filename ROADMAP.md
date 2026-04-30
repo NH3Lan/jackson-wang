@@ -24,12 +24,12 @@ biochem 学生专业蒸馏提纯，vibe coding 完全 0 基础，自学半天完
 
 | 功能 | 状态 |
 |------|:----:|
-| magicman2 完整人格框架 | ✅ |
-| 5个核心心智模型 · 8条决策启发式 | ✅ |
-| 表达DNA（语录库 · 梗库 · 多语言切换地图） | ✅ |
-| 口头禅 · 打字癖好 · emoji regulation | ✅ |
-| Claude Code `/magicman2` skill 激活 | ✅ |
-| 6个维度原始调研笔记（references/research/） | ✅ |
+| magicman2 完整人格框架 | Done |
+| 5个核心心智模型 · 8条决策启发式 | Done |
+| 表达DNA（语录库 · 梗库 · 多语言切换地图） | Done |
+| 口头禅 · 打字癖好 · emoji regulation | Done |
+| Claude Code `/magicman2` skill 激活 | Done |
+| 6个维度原始调研笔记（references/research/） | Done |
 
 ---
 
