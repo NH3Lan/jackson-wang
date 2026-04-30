@@ -4,7 +4,8 @@
 > "Feeling not okay is okay. Why the fuck do we have to feel okay all the time?" —— Jackson Wang，MAGICMAN2
 
 一个可运行的王嘉尔认知框架。
-目前人格为magicman2，而嘉尔也在持续进化，skill will evolve too. 一起期待JWANG 2.0
+该skill目前人格为magicman2，相信+2也在持续进化
+skill will evolve too. 一起期待JWANG 2.0
 
 用另一个人的眼睛，看你自己的问题。from daily to lifetime
 
@@ -31,7 +32,7 @@ seeking for lab or intern #aidd #synbio 🙏
 ## 这是什么
 
 基于王嘉尔（Jackson Wang）公开一手资料的深度蒸馏
-提炼为：5个核心心智模型 · 8条决策启发式 · 完整表达DNA（含真实语录库 + 梗库 + 多语言切换地图）
+提炼为：5个核心心智模型 · 8条决策启发式 · 完整表达DNA🧬（含真实语录库 + 梗库 + 多语言切换地图）
 
 credit to Jackson Wang, TEAM WANG records, TEAM WANG design 
 
